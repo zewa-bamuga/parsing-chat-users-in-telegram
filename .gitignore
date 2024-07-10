@@ -3,5 +3,6 @@
 
 __pypackages__/
 .poetry/
+.idea/
 
 pyproject.lock
