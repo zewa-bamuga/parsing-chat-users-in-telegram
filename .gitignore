@@ -1,0 +1,7 @@
+*.session
+.env
+
+__pypackages__/
+.poetry/
+
+pyproject.lock
